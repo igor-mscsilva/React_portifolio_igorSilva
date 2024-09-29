@@ -1,0 +1,43 @@
+
+.container {
+
+    background-color: #c8deec;
+    border-radius: 1rem 1rem 0 0;
+    display: flexbox;
+    text-align: center;
+    gap:  4rem;
+    height: 20rem;
+    width: 25rem;
+    margin: 2rem auto 0 auto;
+    padding: 4rem;
+    
+}
+
+footer{
+    text-align: center;
+}
+
+.perfil{
+    width: 10rem;
+    border: 0px transparent rgba(0, 0, 0, 0.241);
+    box-shadow: 0 24px 32px -16px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    
+    
+}
+
+.container h2 {
+    background-color: #c8deec;
+    margin-top: 2rem;
+    font-size: 1.75rem;
+    
+}
+/* .container p {
+    font-size: 1rem;
+    color: black;
+
+    line-height: 1.5rem;/*Tamanho da linha*/
+    /*margin-top: 2rem;
+} */

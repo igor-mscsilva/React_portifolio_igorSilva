@@ -1,0 +1,41 @@
+
+.container {
+
+    background-color: #c8deec;
+    border-radius: 0 0 1rem 1rem;
+    display: flexbox;
+    text-align: center;
+    gap:  4rem;
+    height: 20rem;
+    width: 25rem;
+    margin: .2rem auto 0 auto;
+    padding: 1rem;
+    
+}
+
+
+.links {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    background-color: #c8deec;
+}
+
+.links>a {
+    
+    
+    background: rgb(66, 140, 209);
+    background: linear-gradient(45deg, rgb(30, 112, 189) 10%, rgb(124, 212, 235) 100%);
+    border-radius: .75rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    color: #fff;
+    font-weight: 700;
+    padding: .625rem;
+    position: relative;
+    bottom: 0;
+    text-decoration: none;
+    transition: .2s;
+    width: 10rem;
+}
+
